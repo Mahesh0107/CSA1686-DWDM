@@ -1,7 +1,7 @@
-x<-data.frame(Name=c("vinee","alpha","beta"),
-              Age=c(20,16,18),
-              gender=c("f","f","m"),
-              marks=c("98","78","49"),
+x<-data.frame(Name=c("mahesh","hari","teja"),
+              Age=c(20,35,18),
+              gender=c("m","m","f"),
+              marks=c("98","99","89"),
               stringsAsFactors = FALSE
                      )
 View(x)
